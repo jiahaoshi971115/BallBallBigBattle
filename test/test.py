@@ -1,6 +1,5 @@
 from threading import Thread
 from queue import Queue
-1111111111111111
 import time
 
 from tkinter import *
